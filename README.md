@@ -176,6 +176,7 @@ for i in range(5):
 ### Results
  
 ![trending_top_skills_for_data_analysts_in_the_us](Images/trending_top_skills_for_data_analysts_in_the_us.png)
+
 *Bar chart showing how the top five skills for U.S. Data Analysts shifted month by month in 2023, revealing patterns in employer demand.*  
 
 ### Insights
@@ -277,7 +278,7 @@ The analysis reveals the contrast between skills that are most frequently reques
 
 ## 4. What are the most optimal skills to learn for Data Analysts?
 
-To uncover the most optimal skills for data analysts—those that are both highly paid and highly in demand—I combined two measures:  
+To uncover the most optimal skills for data analysts (those that are both highly paid and highly in demand) I combined two measures:  
 - The percentage of job postings requesting each skill.  
 - The median salary associated with those skills.  
 
@@ -318,8 +319,8 @@ plt.show()
 </details>
 
 #### Results  
-
-![Most Optimal Skills for Data Analysts in the US](images/Most_Optimal_Skills_for_Data_Analysts_in_the_US.png)    
+ 
+![most_optimal_skills_for_data_analysts_in_the_us](Images/most_optimal_skills_for_data_analysts_in_the_us.png)
 
 *Scatter plot mapping data analyst skills by both demand and median salary, highlighting those that offer the best balance of high pay and high demand.*  
 
