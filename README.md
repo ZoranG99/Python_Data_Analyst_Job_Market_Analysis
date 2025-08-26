@@ -191,7 +191,7 @@ for i in range(5):
 To understand compensation patterns, I focused on U.S.-based roles and analyzed their median salaries. As a first step, I examined salary distributions for common positions such as Data Scientist, Data Engineer, and Data Analyst to establish a baseline comparison of pay across roles.  
 From there, I identified which specific skills were most strongly associated with higher-paying jobs.  
 
-Detailed steps can be found in the notebook: [4_Salary_Analysis](4_Salary_Analysis.ipynb).  
+Detailed steps can be found in the notebook: [4_Salary_Analysis](4_Salary_Analysis.ipynb). 
 
 #### Visualize Data 
 <details>
