@@ -1,8 +1,0 @@
-# Ignore all CSV files in Dataset
-# Ignore everything inside Dataset
-Dataset/*
-
-# But don’t ignore the placeholder file
-!Dataset/.gitkeep
-
-
