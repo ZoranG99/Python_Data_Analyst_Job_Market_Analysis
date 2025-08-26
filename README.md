@@ -174,9 +174,8 @@ for i in range(5):
 </details>
 
 ### Results
-
-![Trending_Top_Skills_for_Data_Analysts_in_the_US](images/Trending_Top_Skills_for_Data_Analysts_in_the_US.png)  
-
+ 
+![trending_top_skills_for_data_analysts_in_the_us](Images/trending_top_skills_for_data_analysts_in_the_us.png)
 *Bar chart showing how the top five skills for U.S. Data Analysts shifted month by month in 2023, revealing patterns in employer demand.*  
 
 ### Insights
@@ -324,7 +323,7 @@ plt.show()
 
 *Scatter plot mapping data analyst skills by both demand and median salary, highlighting those that offer the best balance of high pay and high demand.*  
 
-#### Insights
+#### Insights 
 
 - **Oracle** stands out with the highest median salary at nearly $97K, even though it appears less frequently in job postings—highlighting the premium placed on specialized database expertise.  
 - Widely required skills such as **Excel** and **SQL** dominate job listings but are linked to lower median salaries compared to more specialized tools like **Python** and **Tableau**, which strike a stronger balance between prevalence and pay.  
